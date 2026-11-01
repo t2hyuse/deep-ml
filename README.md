@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 6 problems · 1 labs · 4 math
+**12** solved · 7 problems · 1 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Scalar Multiply (a * x)](https://www.deep-ml.com/problems/1203) | easy | 2026-10-25 | [solution](problems/1203-scalar-multiply-a-x) |
 | [Vector Addition](https://www.deep-ml.com/problems/1202) | easy | 2026-10-25 | [solution](problems/1202-vector-addition) |
 | [Your First CUDA Kernel: Thread Index](https://www.deep-ml.com/problems/1201) | easy | 2026-10-25 | [solution](problems/1201-your-first-cuda-kernel-thread-index) |
+| [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-11-01 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
 
 ## Labs
 
