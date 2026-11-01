@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 7 problems · 2 labs · 4 math
+**14** solved · 8 problems · 2 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient of a Square with Autograd](https://www.deep-ml.com/problems/1222) | easy | 2026-11-01 | [solution](problems/1222-gradient-of-a-square-with-autograd) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-10-30 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
 | [Scalar Multiply (a * x)](https://www.deep-ml.com/problems/1203) | easy | 2026-10-25 | [solution](problems/1203-scalar-multiply-a-x) |
+| [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-11-01 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Vector Addition](https://www.deep-ml.com/problems/1202) | easy | 2026-10-25 | [solution](problems/1202-vector-addition) |
 | [Your First CUDA Kernel: Thread Index](https://www.deep-ml.com/problems/1201) | easy | 2026-10-25 | [solution](problems/1201-your-first-cuda-kernel-thread-index) |
 | [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-11-01 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
